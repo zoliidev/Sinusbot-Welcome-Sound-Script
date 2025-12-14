@@ -6,4 +6,7 @@ This is a simple script written because of the new GTA online update to play the
 + If something is already playing you can choose to override it
 
 ## Install
-Simply copy this script to the "scripts" folder in your sinusbot install, then restart the bot. After this you will be able to enable the script in your webUI.
+1. Simply copy this script to the "scripts" folder in your sinusbot install, then restart the bot.
+2. After the first step, you will be able to enable the script in your webUI.
+3. Create a playlist with your sounds.
+4. In the script settings make sure to specify the playlist, and it should just work :)
